@@ -1,3 +1,9 @@
+*.JPG
+catalog/*
+*.key
+
+
+.vscode
 *.o
 *.out
 *.so
@@ -9,5 +15,3 @@
 .ipynb_checkpoints
 __pycache__
 
-catalog/*
-*.key
